@@ -11,4 +11,4 @@ TODO:
 FEATURES:
 - Remember deleted files.
 - Detect moved files.
-- Compare different file types differently (instead of solelly relying on the sha1 hash).
+- Compare different file types differently (instead of solelly relying on the sha1 hash)
