@@ -20,5 +20,3 @@ Script to compare and syncronize to collections of files being flexible enought 
 - Action for selected / specified files.
 - Being able to choose if the database is stored in ecah folder, in a database in the user folder, specific folder or
 any of theese.
-
-test.
