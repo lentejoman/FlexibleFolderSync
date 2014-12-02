@@ -1,4 +1,5 @@
-Script to compare and syncronize to collections of files being flexible enought to allow for different folder structure.
+Script to compare and syncronize to collections of files being flexible enought 
+to allow for different folder structure.
 
 ## ROADMAP:
 
@@ -8,8 +9,10 @@ Script to compare and syncronize to collections of files being flexible enought 
 
 1. Tool to create an sqlite database with the different files:
   Information: path, date created, date modified, sha1.
-    1. Use as the starting point a previously created database, update only modified Files.
-1. Tool to import photos importing only the new ones, remembering the deleted ones.
+    1. Use as the starting point a previously created database, update only 
+    modified Files.
+1. Tool to import photos importing only the new ones, remembering the deleted
+ones.
     1. show which are ignored (deleted and already existing).
 
 ## FEATURES:
