@@ -30,7 +30,8 @@ def init(conn):
     """
 
     #TODO: Create indexes and hash to compare.
-    filesInfoTableQry = "CREATE TABLE FilesInfo(pathK TEXT, file_name TEXT, size INT, mtime FLOAT, ctime FLOAT);"
+    filesInfoTableQry = ("CREATE TABLE FilesInfo(pathK TEXT, file_name TEXT, "
+      "size INT, mtime FLOAT, ctime FLOAT);")
     cur = conn.cursor()
     cur.execute(filesInfoTableQry)
     cur.close()

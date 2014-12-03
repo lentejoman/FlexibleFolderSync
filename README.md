@@ -19,9 +19,11 @@ ones.
 
 - Remember deleted files.
 - Detect moved files.
-- Compare different file types differently (instead of solelly relying on the sha1 hash).
+- Compare different file types differently (instead of solelly relying on the 
+sha1 hash).
 - Action for selected / specified files.
-- Being able to choose if the database is stored in ecah folder, in a database in the user folder, specific folder or
+- Being able to choose if the database is stored in ecah folder, in a database 
+in the user folder, specific folder or
 any of theese.
 
 ## Workint ON:
